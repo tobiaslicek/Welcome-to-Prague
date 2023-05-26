@@ -1,0 +1,67 @@
+* {
+  font-family: "Roboto", sans-serif;
+  /* background: #164377; */
+  color: rgba(240, 248, 255, 0.755);
+}
+
+body {
+  background-image: linear-gradient(to bottom right, #164377, #118485);
+}
+
+h1 {
+  text-align: center;
+  font-size: 104px;
+}
+
+h2 {
+  margin-bottom: 4rem;
+  font-size: 42px;
+}
+
+p {
+  text-align: justify;
+  font-size: 34px;
+}
+
+.the_list {
+  text-align: center;
+  font-size: 24px;
+}
+
+button {
+  background-color: #164377;
+  border: #545454;
+}
+
+.the_list {
+  line-height: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(251, 251, 98);
+}
+
+a:hover {
+  color: #387cc5;
+}
+
+img {
+  margin-left: 14rem;
+  margin-top: 6rem;
+  margin-bottom: 9rem;
+  opacity: 0.95;
+}
+
+main {
+  margin: 4rem;
+}
+
+li {
+  opacity: 0.3;
+  margin-top: 3rem;
+}
+
+li:hover {
+  opacity: 0.95;
+}
