@@ -69,12 +69,12 @@ li:hover {
   opacity: 0.95;
 }
 
-a {
+.praha {
   text-decoration: none;
   color: rgb(251, 251, 98);
 }
 
-a:hover {
+.praha:hover {
   color: #387cc5;
 }
 
